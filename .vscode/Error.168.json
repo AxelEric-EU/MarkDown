@@ -1,0 +1,11 @@
+{
+    "resource": "/e:/AxelEric/_Sources/vscode-reveal/tsconfig.json",
+    "owner": "_generated_diagnostic_collection_name_#0",
+    "code": "768",
+    "severity": 4,
+    "message": "Problems loading reference 'schemaservice://combinedschema/schemas/tsconfig.schema.json': Unable to load schema from 'schemaservice://combinedschema/schemas/tsconfig.schema.json': Request vscode/content failed with message: cannot open schemaservice://combinedschema/schemas/tsconfig.schema.json. Detail: resource is not available.",
+    "startLineNumber": 1,
+    "startColumn": 1,
+    "endLineNumber": 1,
+    "endColumn": 2
+}
